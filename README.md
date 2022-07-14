@@ -1,3 +1,5 @@
 # sophistikaition.github.io
-Kait's Portfolio
+<h> Kait's Portfolio </h>
+<p>
 <img src="IMG-0353.PNG"/>
+</p>
